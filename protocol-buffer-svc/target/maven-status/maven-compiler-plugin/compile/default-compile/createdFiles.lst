@@ -1,0 +1,15 @@
+protocol\EmployeeBookProtos$Employees.class
+protocol\EmployeeBookProtos$Employee.class
+protocol\EmployeeBookProtos$EmployeeOrBuilder.class
+protocol\EmployeeBookProtos$Employees$Builder.class
+com\protoBuf\protocolbuffersvc\repository\ProtocalBufferRepository.class
+protocol\EmployeeBookProtos$EmployeesOrBuilder.class
+protocol\EmployeeBookProtos$Employee$1.class
+com\protoBuf\protocolbuffersvc\controller\ProtocolBufferController.class
+protocol\EmployeeBookProtos.class
+com\protoBuf\protocolbuffersvc\entity\EmployeeDetails.class
+com\protoBuf\protocolbuffersvc\service\ProtocalPufferService.class
+protocol\EmployeeBookProtos$Employee$Builder.class
+com\protoBuf\protocolbuffersvc\ProtocolBufferSvcApplication.class
+protocol\EmployeeBookProtos$1.class
+protocol\EmployeeBookProtos$Employees$1.class
